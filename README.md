@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @serhankk
+- 🌱 I’m from Turkey.
+- 👀 I’m interested in Python.
+- 📫 How to reach me -> serhankonukluk@gmail.com
