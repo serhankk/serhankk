@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serhankk
+- 👋 Hi, I’m  Serhan KONUKLUK. [ @serhankk ]
 - 🌱 I’m from Turkey.
 - 👀 I’m interested in:
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python
