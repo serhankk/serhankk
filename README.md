@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @serhankk
 - 🌱 I’m from Turkey.
 - 👀 I’m interested in:
-                      - Python
-                      - PHP
-                      - Rest API
-                      - MySQL / SQLite
-                      - Bash Shell
+<br />                      - Python
+<br />                      - PHP
+<br />                      - Rest API
+<br />                      - MySQL / SQLite
+<br />                      - Bash Shell
 - 📫 How to reach me -> serhankonukluk@gmail.com
