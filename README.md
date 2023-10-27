@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Serhan KONUKLUK. [ @serhankk ]
+- 👋 Hi, I’m  Serhan KONUKLUK. [ [@serhankk](https://github.com/serhankk) ]
 - 🌱 I’m from Turkey.
 - 👀 I’m interested in:
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python [Scripting, Backend Web Development, Test Automation]
