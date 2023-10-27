@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Serhan KONUKLUK. [ [@serhankk](https://github.com/serhankk) ]
-- 🌱 I’m from Turkey.
+- 🌱 I live in Istanbul.
 - 👀 I’m interested in:
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python [Scripting, Backend Web Development, Test Automation]
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Javascript [Beginner 👨‍🎓]
